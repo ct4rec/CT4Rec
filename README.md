@@ -2,13 +2,17 @@ This is a TensorFlow implementation for CT4Rec
 
 We refer to the repo [SASRec](https://github.com/kang205/SASRec).
 
+## Requirements
+
+requirement.txt
+
 ## Datasets
 
 This repo includes Amazon Beauty dataset as an example. you could also download Amazon review data from *[here](http://jmcauley.ucsd.edu/data/amazon/index.html)*.
 
 ## Model Training
 
-To train our model on `Beauty` (with default hyper-parameters): 
+To train model on `Beauty` (with default hyper-parameters): 
 
 ```
 python main.py \
@@ -24,8 +28,4 @@ python main.py \
 --rd_reduce=mean \
 --neg_sample_n=50
 ```
-
-## Contact
-
-If you have any questions, please send me an email (ct4rec_code@163.com).
 

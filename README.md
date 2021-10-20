@@ -1,10 +1,8 @@
 # CT4Rec: Simple yet Effective Consistency Training forSequential Recommendation
 
-This is our TensorFlow implementation for the paper:
+This is our TensorFlow implementation for CT4Rec
 
 We refer to the repo [SASRec](https://github.com/kang205/SASRec).
-
-Please cite our paper if you use the code or datasets.
 
 ## Datasets
 

@@ -12,7 +12,7 @@ This repo includes Amazon Beauty dataset as an example. you could also download 
 
 ## Model Training
 
-To train model on `Beauty` (with default hyper-parameters): 
+To train model on `Beauty`: 
 
 ```
 python main.py \

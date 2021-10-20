@@ -1,4 +1,4 @@
-This is our TensorFlow implementation for CT4Rec
+This is a TensorFlow implementation for CT4Rec
 
 We refer to the repo [SASRec](https://github.com/kang205/SASRec).
 
